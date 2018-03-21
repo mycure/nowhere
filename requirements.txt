@@ -1,0 +1,2 @@
+ghostscript==0.6
+termcolor==1.1.0
